@@ -5,7 +5,8 @@ IoT Smart Farm Scale: Solar-optimized, automatic Big Data collection, and remote
 ## 📝 Project Overview
 This project focuses on building a smart electronic scale for high-tech agriculture. It automatically collects weight data from afar and is highly energy-efficient, making it perfect for off-grid farms.
 
-## 🎯 Objectives
+![System Flowchart](https://github.com/nguyen1356/IoT-Farm-Scale/blob/491b07ecde1483084f9059dd1a92621bfb699ce7/images/tong%20quan.jpg)
+## Objectives
 * **Automation:** Reduces manual measuring work by sending data directly to the Cloud.
 * **Off-Grid Operation:** Uses solar power and power-saving modes to run reliably for a long time.
 * **Big Data Collection:** Provides accurate, periodic data to help analyze crop growth trends.
