@@ -37,14 +37,14 @@ The chart below shows the complete cycle of the system: from starting up, checki
 ![System Flowchart](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/luu%20do.png)
 ![so do ket noi](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/so%20do%20ket%20noi.png)
 ## ✅ Project Results
-[ket qua](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/ket%20qua.jpg)
+![Project Results](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/ket%20qua.jpg)
 * **Outstanding Energy Savings:** By reducing the active time to just 8-15 seconds per cycle and cutting power to the sensor, the system runs smoothly for days even with low sunlight.
 * **Fail-Safe Protection:** The device detects network loss and safely goes to sleep, preventing system crashes or wasted energy.
 * **Easy Remote Management:** Essential controls like resetting to zero (Tare) or adjusting accuracy (Calib) can be done directly from the Dashboard without physically touching the device.
 * **Standardized Data:** Data is packed in standard JSON format and sent stably to the Server, making it ready for Big Data analysis.
 
-[ket qua web](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/quet%20qua%20wed.jpg)
+![Project Results](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/quet%20qua%20wed.jpg)
 ## 🚀 Future Plans
 * Upgrade from the current prototype to a complete custom PCB (using SMD ESP8266 chips).
 * Develop an advanced Data Analytics Dashboard to predict crop yields based on the collected data.
-[solidword](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/Screenshot%202026-05-06%20180240.png)
+[ solidword ](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/Screenshot%202026-05-06%20180240.png)
