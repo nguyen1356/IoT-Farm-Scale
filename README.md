@@ -47,4 +47,4 @@ The chart below shows the complete cycle of the system: from starting up, checki
 ## 🚀 Future Plans
 * Upgrade from the current prototype to a complete custom PCB (using SMD ESP8266 chips).
 * Develop an advanced Data Analytics Dashboard to predict crop yields based on the collected data.
-[ solidword ](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/Screenshot%202026-05-06%20180240.png)
+![ solidword ](https://github.com/nguyen1356/IoT-Farm-Scale/blob/3139b9042ec103200403a491690afbaa3e38d806/images/Screenshot%202026-05-06%20180240.png)
